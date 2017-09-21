@@ -59,5 +59,3 @@ func printResult( _ depth:Int ) -> () {
 print("Introduce a number:")
 var number = input()
 print(printResult(number.integerValue))
-
-// hay que ir añadiendole dos al nuevo
